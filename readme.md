@@ -14,7 +14,7 @@ O programa verifica se as regras da gramática estão conformes com a estrutura 
 
 ---
 
-## 📚 Sobre o Projeto
+## Sobre o Projeto
 
 O programa realiza as seguintes etapas:
 
@@ -32,7 +32,7 @@ O programa realiza as seguintes etapas:
 
 ---
 
-## 🧠 Como Funciona
+## Como Funciona
 
 ### Formato de entrada
 
